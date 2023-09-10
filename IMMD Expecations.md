@@ -19,7 +19,7 @@ from scipy.stats import gaussian_kde
 
 
 ```python
-df = pd.read_csv('/Users/nicholascurci/Downloads/IMMD - Sheet1.csv')
+df = pd.read_csv('IMMD - Sheet1.csv')
 ```
 
 
